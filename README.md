@@ -1,4 +1,4 @@
-# Formulario de Registro - React + Vite
+# Formulario de Registro - React
 
 Este proyecto es un formulario de registro con validación en tiempo real desarrollado con React, Vite y Bootstrap.
 Incluye campos para nombre, correo electrónico y contraseña con validaciones dinámicas y un diseño responsivo.
